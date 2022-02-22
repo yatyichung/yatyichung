@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <h2>🔧 Languages</h2>
 
-<img src="https://user-images.githubusercontent.com/78622789/155230351-ec0359fb-919a-4fb0-9155-b63ee11c5c78.png" width="30" alt="">
-<img src="https://user-images.githubusercontent.com/78622789/155230352-e86ee288-b1a2-40c7-baf5-579ee909c67b.png" width="30" alt="">
-<img src="https://user-images.githubusercontent.com/78622789/155230353-11f2b21c-9ee9-4d72-9c2a-bfec26b47afd.png" width="30" alt="">
-<img src="https://user-images.githubusercontent.com/78622789/155230360-2caf3698-65ca-446a-8930-42bcf123edd2.png" width="30" alt="">
-<img src="https://user-images.githubusercontent.com/78622789/155230398-1f215b76-3116-42be-87ec-dfe72e78bdac.svg" width="30" alt="">
+<img src="https://user-images.githubusercontent.com/78622789/155230351-ec0359fb-919a-4fb0-9155-b63ee11c5c78.png" width="50" alt="">
+<img src="https://user-images.githubusercontent.com/78622789/155230352-e86ee288-b1a2-40c7-baf5-579ee909c67b.png" width="50" alt="">
+<img src="https://user-images.githubusercontent.com/78622789/155230353-11f2b21c-9ee9-4d72-9c2a-bfec26b47afd.png" width="50" alt="">
+<img src="https://user-images.githubusercontent.com/78622789/155230360-2caf3698-65ca-446a-8930-42bcf123edd2.png" width="50" alt="">
+<img src="https://user-images.githubusercontent.com/78622789/155230398-1f215b76-3116-42be-87ec-dfe72e78bdac.svg" width="50" alt="">
 
 
 
