@@ -1,4 +1,4 @@
-<head><link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"></head>
+
 <h1>Hi there 👋, I'm Sunny 🌞</h1>
 
 <!--
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 <h2>🔧 Technologies & Tools</h2>
 
-<i class="fa-brands fa-html5"></i>
+
