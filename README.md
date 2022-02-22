@@ -1,3 +1,4 @@
+<head><link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css"></head>
 <h1>Hi there 👋, I'm Sunny 🌞</h1>
 
 <!--
