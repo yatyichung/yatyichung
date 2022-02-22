@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💻 Currently pursing <strong>Web Development graduate certification</strong> at <strong>Humber College</strong>.
 - ⚡ Fun fact<br>Got a probation warning during first year undergrad, but graduated my Honours Bachelor of Arts <strong>"WITH DISTINCTION"</strong>!
 
-<h2>🔧 Languages</h2>
+<h2>👩🏻‍💻 Languages</h2>
 <p>
 <img src="https://user-images.githubusercontent.com/78622789/155230353-11f2b21c-9ee9-4d72-9c2a-bfec26b47afd.png" width="50" alt="html icon">
 <img src="https://user-images.githubusercontent.com/78622789/155230352-e86ee288-b1a2-40c7-baf5-579ee909c67b.png" width="50" alt="css icon">
