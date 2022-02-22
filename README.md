@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🎓 A graduate student from <strong>UofT</strong> (Major in Communication, Culture, Information & Technology)
-💻 Currently pursing a <strong>Web Development graduate certification at Humber College</strong>
+- 👩‍🎓 A graduate student from <strong>UofT</strong> (Major in Communication, Culture, Information & Technology)
+- 💻 Currently pursing a <strong>Web Development graduate certification at Humber College</strong>
