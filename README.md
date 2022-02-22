@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sunny 🌞
+<h1>Hi there 👋, I'm Sunny 🌞</h1>
 
 <!--
 **yatyichung/yatyichung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
