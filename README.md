@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🎓
+👩‍🎓 I am a graduate student from <strong>UofT</strong> (Major in Communication, Culture, Information & Technology) and currently pursing a <strong>Web Development graduate certification at Humber College</strong>
