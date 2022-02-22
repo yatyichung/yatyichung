@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 A graduate student from <strong>University of Toronto</strong> (I have a major in Communication, Culture, Information & Technology).
 - 💻 Currently pursing a <strong>Web Development graduate certification</strong> at <strong>Humber College</strong>.
+- ⚡ Fun fact: got a probation warning during undergrad program BUT ended up graduating Honours Bachelor of Arts "WITH DISTINCTION"!
 
 <h2>🔧 Technologies & Tools</h2>
