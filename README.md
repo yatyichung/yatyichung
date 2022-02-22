@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 <h2>🔧 Technologies & Tools</h2>
 
 
-![html5-brands (2)](https://user-images.githubusercontent.com/78622789/155228706-5bd2c85f-85d0-4ba9-a02b-459f20fe8cf4.svg)
+<img src="https://user-images.githubusercontent.com/78622789/155228706-5bd2c85f-85d0-4ba9-a02b-459f20fe8cf4.svg" width="100">
+     ![html5-brands (2)](https://user-images.githubusercontent.com/78622789/155228706-5bd2c85f-85d0-4ba9-a02b-459f20fe8cf4.svg)
