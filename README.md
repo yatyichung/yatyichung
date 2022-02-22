@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 - 👩‍🎓 A graduate student from <strong>University of Toronto</strong> (I have a major in Communication, Culture, Information & Technology)
 - 💻 Currently pursing a <strong>Web Development graduate certification</strong> at <strong>Humber College</strong>
+
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
