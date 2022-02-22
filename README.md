@@ -20,16 +20,8 @@ Here are some ideas to get you started:
 - 💻 Currently pursing <strong>Web Development graduate certification</strong> at <strong>Humber College</strong>.
 - ⚡ Fun fact<br>Got a probation warning during first year undergrad, but graduated my Honours Bachelor of Arts <strong>"WITH DISTINCTION"</strong>!
 
-<h2>🔧 Technologies & Tools</h2>
-<table >
-  <tr>
-    <th>Languages</th>
-    <th>Other</th>
-  </tr>
-  <tr>
-    <td ><img src="https://user-images.githubusercontent.com/78622789/155228706-5bd2c85f-85d0-4ba9-a02b-459f20fe8cf4.svg" width="30">HTML</td>
-    <td></td>
-  </tr>
-</table>
+<h2>🔧 Languages</h2>
+<img src="https://user-images.githubusercontent.com/78622789/155228706-5bd2c85f-85d0-4ba9-a02b-459f20fe8cf4.svg" width="30">
+ 
 
 
