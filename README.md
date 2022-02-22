@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 <h2>🔧 Tools</h2>
 <p>
-  <img src="https://user-images.githubusercontent.com/78622789/155231704-f588d82f-6978-494b-b903-bfa49810595a.svg" width="50" alt="microsoft office icon">
   <img src="https://user-images.githubusercontent.com/78622789/155231706-4658b7c8-fc0f-452a-96a8-4444de0e8815.png" width="50" alt="adobe xd icon">
   <img src="https://user-images.githubusercontent.com/78622789/155231707-b94e0973-a909-4c02-9d38-0d5d3a51146e.png" width="50" alt="adobe illustrator cc icon">
+  <img src="https://user-images.githubusercontent.com/78622789/155231704-f588d82f-6978-494b-b903-bfa49810595a.svg" width="50" alt="microsoft office icon">
 </p>
 
