@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍🎓 A graduate student from <strong>University of Toronto</strong> (I have a major in Communication, Culture, Information & Technology)
-- 💻 Currently pursing a <strong>Web Development graduate certification</strong> at <strong>Humber College</strong>
+- 👩‍🎓 A graduate student from <strong>University of Toronto</strong> (I have a major in Communication, Culture, Information & Technology).
+- 💻 Currently pursing a <strong>Web Development graduate certification</strong> at <strong>Humber College</strong>.
 
 <h2>🔧 Technologies & Tools</h2>
