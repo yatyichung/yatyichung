@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact<br>Got a probation warning during first year undergrad, but graduated my Honours Bachelor of Arts <strong>"WITH DISTINCTION"</strong>!
 
 <h2>🔧 Technologies & Tools</h2>
-<table>
+<table style="text-align:center">
   <tr>
     <th>Languages</th>
     <th>Other</th>
