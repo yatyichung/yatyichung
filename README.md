@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <th>Other</th>
   </tr>
   <tr>
-    <td style="display:flex;align-items:center;"><img src="https://user-images.githubusercontent.com/78622789/155228706-5bd2c85f-85d0-4ba9-a02b-459f20fe8cf4.svg" width="30">HTML</td>
+    <td ><img src="https://user-images.githubusercontent.com/78622789/155228706-5bd2c85f-85d0-4ba9-a02b-459f20fe8cf4.svg" width="30">HTML</td>
     <td></td>
   </tr>
 </table>
