@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <li>JavaScript</li>
   </ul></td>
     <td><ul>
-    <li>mySQL</li>
+    <li>SQL</li>
   <li>C#</li>
   <li>C++</li>
   </ul></td>
