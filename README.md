@@ -39,14 +39,3 @@ Here are some ideas to get you started:
   </ul></td>
   </tr>
   </table>
-
-<h2>🔧 Tools</h2>
-</ul></td>
-    <td><ul>
-    <li>Adobe XD</li>
-  <li>Adobe Illustrator</li>
-    <li>Figma</li>
-  <li>Balsamiq</li>
-  <li>Microsoft office</li>
-  </ul></td>
-
