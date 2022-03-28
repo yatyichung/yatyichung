@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Front-End</td>
     <td>Back-End</td>
+     <td>Frameworks/Libraries</td>
   </tr>
   <tr>
     <td><ul>
@@ -36,6 +37,10 @@ Here are some ideas to get you started:
     <li>MySQL</li>
   <li>C#</li>
   <li>C++</li>
+  </ul></td>
+ <td><ul>
+   <li>Bootstrap</li>
+ 
   </ul></td>
   </tr>
   </table>
