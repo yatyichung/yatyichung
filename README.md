@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   </ul></td>
  <td><ul>
    <li>Bootstrap</li>
+   <li>jQuery</li>
+   <li>Sass</li>
  
   </ul></td>
   </tr>
