@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  <td><ul>
    <li>Bootstrap</li>
    <li>Sass</li>
-   <li>Foundation</li>
+   <li>ZURB Foundation</li>
    <li>jQuery</li>
    
  
