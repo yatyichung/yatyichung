@@ -43,8 +43,6 @@ Here are some ideas to get you started:
    <li>Sass</li>
    <li>ZURB Foundation</li>
    <li>jQuery</li>
-   
- 
   </ul></td>
   </tr>
   </table>
