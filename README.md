@@ -40,7 +40,6 @@ Here are some ideas to get you started:
   </ul></td>
  <td><ul>
    <li>Bootstrap</li>
-   <li>Sass</li>
    <li>ZURB Foundation</li>
    <li>jQuery</li>
   </ul></td>
