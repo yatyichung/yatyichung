@@ -42,6 +42,8 @@ Here are some ideas to get you started:
    <li>Bootstrap</li>
    <li>ZURB Foundation</li>
    <li>jQuery</li>
+    <li>AJAX</li>
+    <li>JSON</li>
   </ul></td>
   </tr>
   </table>
