@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Front-End</td>
     <td>Back-End</td>
-     <td>Frameworks/Libraries</td>
+     <td>Frameworks/Methodologies</td>
   </tr>
   <tr>
     <td><ul>
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
    <li>jQuery</li>
     <li>AJAX</li>
     <li>JSON</li>
+   <li>ASP.NET</li>
   </ul></td>
   </tr>
   </table>
