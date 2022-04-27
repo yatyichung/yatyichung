@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Front-End</td>
     <td>Back-End</td>
-
+    <td>Other</td/>
   </tr>
   <tr>
     <td><ul>
@@ -38,6 +38,10 @@ Here are some ideas to get you started:
   <li>C# (ASP.NET)</li>
   <li>C++</li>
   </ul></td>
-
+    <td><ul>
+      <li>Adobe Illustrator</li>
+      <li>Adobe InDesign</li>
+      <li>Figma</li>
+          </td></ul>
   </tr>
   </table>
