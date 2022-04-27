@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     <td><ul>
     <li>HTML</li>
   <li>CSS (SASS, Bootstrap, ZURB Foundation)</li>
-  <li>JavaScript</li>
+  <li>JavaScript (jQuery)</li>
   </ul></td>
     <td><ul>
     <li>MySQL</li>
