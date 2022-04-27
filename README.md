@@ -25,24 +25,19 @@ Here are some ideas to get you started:
   <tr>
     <td>Front-End</td>
     <td>Back-End</td>
-     <td>Frameworks/Techniques</td>
+
   </tr>
   <tr>
     <td><ul>
     <li>HTML</li>
-  <li>CSS</li>
+  <li>CSS (SASS, Bootstrap, ZURB Foundation)</li>
   <li>JavaScript</li>
   </ul></td>
     <td><ul>
     <li>MySQL</li>
-  <li>C#</li>
+  <li>C# (ASP.NET)</li>
   <li>C++</li>
   </ul></td>
- <td><ul>
-   <li>Bootstrap</li>
-   <li>ZURB Foundation</li>
-   <li>jQuery</li>
-   <li>ASP.NET</li>
-  </ul></td>
+
   </tr>
   </table>
