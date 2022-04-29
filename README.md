@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <tr>
     <td>Front-End</td>
     <td>Back-End</td>
-    <td>T</td/>
+    <td>To</td/>
   </tr>
   <tr>
     <td><ul>
