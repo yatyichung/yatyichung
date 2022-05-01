@@ -35,13 +35,14 @@ Here are some ideas to get you started:
   </ul></td>
     <td><ul>
     <li>MySQL</li>
-  <li>C# (ASP.NET)</li>
+  <li>C#</li>
   <li>C++</li>
   </ul></td>
     <td><ul>
       <li>Adobe Illustrator</li>
       <li>Adobe InDesign</li>
       <li>Figma</li>
+      <li>(ASP.NET)</li>
           </td></ul>
   </tr>
   </table>
