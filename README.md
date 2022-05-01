@@ -42,7 +42,7 @@ Here are some ideas to get you started:
       <li>Adobe Illustrator</li>
       <li>Adobe InDesign</li>
       <li>Figma</li>
-      <li>(ASP.NET)</li>
+      <li>ASP.NET)</li>
           </td></ul>
   </tr>
   </table>
