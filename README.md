@@ -42,7 +42,7 @@ Here are some ideas to get you started:
       <li>Adobe Illustrator</li>
       <li>Adobe InDesign</li>
       <li>Figma</li>
- 
-          </td></ul>
+          </td>
+  </ul>
   </tr>
   </table>
