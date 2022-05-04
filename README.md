@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <tr>
     <td><ul>
     <li>HTML</li>
-  <li>CSS (SASS, Bootstrap, ZURB Foundation)</li>
+  <li>CSS (SASS, Bootstrap)</li>
   <li>JavaScript (jQuery)</li>
   </ul></td>
     <td><ul>
