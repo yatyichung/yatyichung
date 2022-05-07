@@ -31,12 +31,11 @@ Here are some ideas to get you started:
     <td><ul>
     <li>HTML</li>
   <li>CSS (SASS, Bootstrap)</li>
-  <li>JavaScript (jQuery)</li>
+  <li>JavaScript (jQuery,node.js)</li>
   </ul></td>
     <td><ul>
     <li>MySQL</li>
   <li>C# (ASP.NET)</li>
-      <li>PHP</li>
   <li>C++</li>
   </ul></td>
     <td><ul>
