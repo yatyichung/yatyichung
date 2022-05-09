@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <td><ul>
     <li>MySQL</li>
   <li>C# (ASP.NET)</li>
-      <li>php</li>
+      <li>PHP</li>
   </ul></td>
     <td><ul>
       <li>Adobe Illustrator</li>
