@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍🎓 Graduated from <strong>University of Toronto</strong> majored in Communication, Culture, Information & Technology.
-- 💻 Currently pursing <strong>Web Development graduate certificate</strong> at <strong>Humber College</strong>.
-
+- 💻 Currently pursing <strong>Ontario Graduate Certificate</strong> in <strong>Web Development </strong> at <strong>Humber College</strong>.
 
 <h2>👩🏻‍💻 Languages</h2>
 <table>
