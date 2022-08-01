@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <td><ul>
     <li>HTML</li>
   <li>CSS (SASS, Bootstrap)</li>
-  <li>JavaScript (jQuery,*Node.js, Express.js, Pug)</li>
+  <li>JavaScript (jQuery,*Node.js, React.js, Express.js, Pug)</li>
   </ul></td>
     <td><ul>
     <li>MySQL</li>
