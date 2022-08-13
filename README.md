@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   </ul></td>
     <td><ul>
     <li>MySQL</li>
-      <li>MongoDB</li>
   <li>C# (ASP.NET)</li>
       <li>PHP</li>
   </ul></td>
