@@ -38,9 +38,10 @@ Here are some ideas to get you started:
       <li>PHP</li>
   </ul></td>
     <td><ul>
-       <li>Adobe Git</li>
+       <li>Git</li>
       <li>Adobe Illustrator</li>
       <li>Adobe InDesign</li>
+      <li>Adobe Photoshop</li>
       <li>Figma</li>
           </td>
   </ul>
