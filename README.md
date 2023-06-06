@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 -->
 
 - 👩‍🎓 Graduated from <strong>University of Toronto</strong> majored in Communication, Culture, Information & Technology.
-- 💻 Currently pursing <strong>Ontario Graduate Certificate</strong> in <strong>Web Development </strong> at <strong>Humber College</strong>.
+- 👩‍🎓 Graduated from Humber College with an <strong>Ontario Graduate Certifiation in Web Development</strong>. 
+- 💻 Currently working as a <strong>Software Developer</strong> at Manufacturing Systems Corp.
 
 <h2>👩🏻‍💻 Languages</h2>
 <table>
@@ -30,18 +31,17 @@ Here are some ideas to get you started:
     <td><ul>
     <li>HTML</li>
   <li>CSS (SASS, Bootstrap)</li>
-  <li>JavaScript (jQuery,*Node.js, React.js, Express.js, Pug)</li>
+  <li>JavaScript</li>
   </ul></td>
     <td><ul>
-    <li>MySQL</li>
+    <li>SQL</li>
   <li>C# (ASP.NET)</li>
-      <li>PHP</li>
+      <li>VB.NET</li>
   </ul></td>
     <td><ul>
-       <li>Git</li>
-      <li>Adobe Illustrator</li>
-      <li>Adobe InDesign</li>
-      <li>Adobe Photoshop</li>
+       <li>SSRS Report</li>
+      <li>Git</li>
+      <li>Adobe Illustrator, InDesign, Photoshop</li>
       <li>Figma</li>
           </td>
   </ul>
