@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👩‍🎓 Graduated from <strong>University of Toronto</strong> majored in Communication, Culture, Information & Technology.
-- 👩‍🎓 Graduated from Humber College with an <strong>Ontario Graduate Certifiation in Web Development</strong>. 
 - 💻 Currently working as a <strong>Software Developer</strong> at Manufacturing Systems Corp.
+- 👩‍🎓 Graduated from Humber College with an <strong>Ontario Graduate Certifiation in Web Development</strong>. 
+- 👩‍🎓 Graduated from <strong>University of Toronto</strong> majored in Communication, Culture, Information & Technology.
 
 <h2>👩🏻‍💻 Languages</h2>
 <table>
