@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </ul></td>
     <td><ul>
     <li>SQL</li>
-  <li>C# (ASP.NET)</li>
+  <li>C# (ASP.NET MVC)</li>
       <li>VB.NET</li>
   </ul></td>
     <td><ul>
