@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <li>JavaScript (NodeJS, ReactJS)</li>
   </ul></td>
     <td><ul>
-    <li>SQL</li>
+    <li>MS SQL</li>
   <li>C# (ASP.NET MVC)</li>
       <li>VB.NET</li>
   </ul></td>
